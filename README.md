@@ -3,9 +3,7 @@
 A **simple yet powerful bill-splitting app** built with **SwiftUI**.  
 Easily **calculate tips** and **split bills** with your friends hassle-free!  
 
-![WeSplit Preview](#) <!-- Add a screenshot here -->
-
----
+<img src="https://github.com/user-attachments/assets/2a9f9094-391c-4afb-83d6-177b781ca2b5" alt="Preview" width="250" height="500">
 
 ## 📖 About the Project  
 **WeSplit** is a minimal yet effective **bill-splitting app** that helps you:  
@@ -19,7 +17,7 @@ Easily **calculate tips** and **split bills** with your friends hassle-free!
 ## 📸 Screenshots  
 | Home Screen | Tip Selection | Total Breakdown |  
 |------------|--------------|-----------------|  
-| ![Home](#) | ![Tip](#) | ![Total](#) |  
+| <img src="https://github.com/user-attachments/assets/06aeb41f-952a-4a7a-ba65-c6ad8af99612" alt="Home" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/45890cb0-1e52-418d-b1e7-33356c0f7846" alt="Tip" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/70f7ff00-db70-45bf-9181-f9abe8d4096c" alt="Total" width="250" height="500"> |  
 
 ---
 
